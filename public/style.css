@@ -45,6 +45,10 @@ h3 {
   font-family: 'Permanent Marker', cursive;
 }
 
+h4 {
+  font-family: 'Permanent Marker', cursive;
+}
+
 nav a:hover{
   opacity: 0.7;
 }
@@ -87,7 +91,7 @@ select:hover {
 
 select:focus {
   border-color: #aaa;
-  box-shadow: 0 0 1px 3px rgba(59, 153, 252, 0.7);
+  box-shadow: 0 0 1px 3px #111f4d(59, 153, 252, 0.7);
   box-shadow: 0 0 0 3px -moz-mac-focusring;
   color: #222;
   outline: none;
@@ -195,7 +199,7 @@ button {
   opacity: 1;
   right: 10px;
   background-color: hsl(94, 40%, 86%);
-  color: hsl(94, 90%, 16%);
+  color: #e43a19(94, 90%, 16%);
   transition: all 1.2s;
 }
 
@@ -257,7 +261,7 @@ button {
 #toast.success {
   right: 10px;
   background-color: hsl(94, 40%, 86%);
-  color: hsl(94, 90%, 16%);
+  color: #e43a19(94, 90%, 16%);
   transition: all 0.5s;
 }
 .workout-type,
@@ -315,7 +319,7 @@ button {
 
 #toast.success {
   background-color: hsl(94, 40%, 86%);
-  color: hsl(94, 90%, 16%);
+  color: #e43a19(94, 90%, 16%);
   animation-name: toast;
   animation-duration: 2s;
   animation-fill-mode: forwards;
