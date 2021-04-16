@@ -2,7 +2,7 @@
 
 Gym-Bro is your number one workout app! https://vast-lake-77470.herokuapp.com/
 
-<img src="../demoPhotos/pic1.png" alt ="pic">
+<img src=".../demoPhotos/pic1.png" alt ="pic">
 
 ## Installation
 
